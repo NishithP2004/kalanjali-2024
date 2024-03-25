@@ -1,0 +1,59 @@
+.footer-bottom {
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #292929;
+  color: azure;
+  gap: 10px;
+}
+
+.footer-top {
+  background-color: rgba(0, 0, 0, 0.75);
+  padding: 20px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.footer-bottom p.footer-text {
+  font-family: "Playfair Display", serif;
+  color: #fff3c7;
+}
+
+.social-links {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 10px;
+}
+
+.social-links ul li {
+  font-size: 50px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.social-links a:link,
+.social-links a:visited {
+  color: aqua;
+}
+
+.amrita-logo {
+  width: 300px;
+  cursor: pointer;
+}
+
+.social-links li:hover,
+.social-links li a:hover {
+  transform: scale(1.25);
+  color: azure;
+}
+
+@media all and (max-width: 720px) {
+  .footer-top {
+    justify-content: center;
+  }
+}

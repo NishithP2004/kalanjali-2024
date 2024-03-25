@@ -1,0 +1,11 @@
+section {
+  height: 100vh;
+  padding: 10px;
+  border-bottom: 2.5px solid aqua;
+}
+
+section h2 {
+  font-family: "Pacifico", serif;
+  font-size: 2em;
+  text-align: center;
+}

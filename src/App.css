@@ -1,0 +1,35 @@
+#title {
+  font-family: "Berkshire Swash", serif;
+  text-align: center;
+  font-size: 5em;
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+#hero {
+  background: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5e811f40488663.57856717e15c5.gif)
+    no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: azure;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+@media all and (max-width: 720px) {
+  #hero {
+    background-position: 60% center;
+  }
+}
