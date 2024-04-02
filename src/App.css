@@ -1,5 +1,17 @@
+main {
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  src:
+    url("/fonts/Samarkan/Samarkan.TTF") format("truetype"),
+    url("/fonts/Samarkan/SamarkanNormal.woff") format("woff"),
+    url("/fonts/Samarkan/SamarkanNormal.woff2") format("woff2");
+  font-family: "Samarkan";
+}
+
 #title {
-  font-family: "Berkshire Swash", serif;
+  font-family: "Samarkan", "Berkshire Swash", serif;
   text-align: center;
   font-size: 5em;
 }
@@ -26,6 +38,15 @@
 .column {
   display: flex;
   flex-direction: column;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+#schedule {
+  height: auto;
 }
 
 @media all and (max-width: 720px) {

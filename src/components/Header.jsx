@@ -11,7 +11,7 @@ function Header() {
         />
         <h3
           style={{
-            fontFamily: '"Berkshire Swash", serif',
+            fontFamily: '"Samarkan", "Berkshire Swash", serif',
           }}
         >
           Kalanjali

@@ -1,0 +1,545 @@
+{
+  "19_4_24": [
+    {
+      "name": "Broken Coding",
+      "description": "Broken Coding is an exciting mini-game event that puts participants' coding skills to the test with a unique twist. After spinning the wheel, contestants are given a random question. The challenge comes in coding assignments where each input is transformed into a different letter, giving an exhilarating layer of unpredictability to the experience.\n\nParticipants must race against the clock to answer these code puzzles, with each second contributing toward their ultimate ranking. The faster they crack the code, the higher their ranking on the leaderboard.\n\nThe event offers a mix of excitement and smart thinking to deal with the setback and emerge successful.",
+      "club": {
+        "name": "CodeChef",
+        "logo": "Club_Logos/CodeChef.png",
+        "obs": [
+          {
+            "name": "S Ajay Ratnam",
+            "designation": null,
+            "phone": "+916383842602",
+            "registration_no": null
+          },
+          {
+            "name": "Nishith P",
+            "designation": null,
+            "phone": "+919738342285",
+            "registration_no": null
+          },
+          {
+            "name": "Vinitha Chowdary",
+            "designation": null,
+            "phone": "+919481077745",
+            "registration_no": null
+          }
+        ]
+      },
+      "type": "TEAM",
+      "time": {
+        "start": 1713535200,
+        "duration": 120
+      },
+      "timings": "2PM - 4PM",
+      "venue": "Krishna Hall",
+      "registration_link": "https://forms.office.com/r/5LurmssbJM"
+    },
+    {
+      "name": "Meme Mania",
+      "description": "We are excited to propose the \"Make Your Own Meme\" event, an innovative and engaging contest designed to unleash the creativity of our college students through the medium of memes. Participants will be given a selection of meme templates, including both popular and custom designs related to college life, from which they can create their own unique memes. These creations will then be proudly displayed on the notice board at the Reception/E Block entrance, allowing the entire college community to enjoy and appreciate the humor and creativity of their peers. To celebrate the creativity and effort of our participants, the creators of the top memes, as determined by a combination of peer votes and a panel of judges, will be awarded exciting prizes. These prizes are designed to not only reward their ingenuity but also to encourage continued creative and positive expression. We emphasize the importance of respectful and inclusive humor in this contest; therefore, all submissions must be free from offensive content, adhering to our college's values of positivity and respect. This initiative aims not only to provide a platform for student expression but also to foster a sense of community and shared enjoyment within our college environment.",
+      "club": {
+        "name": "LEKHANI",
+        "logo": "Club_Logos/Lekhani.png",
+        "obs": [
+          {
+            "name": "T.Pooja Naidu",
+            "designation": null,
+            "phone": "+91 9701288102",
+            "registration_no": null
+          }
+        ]
+      },
+      "time": {
+        "start": 1713520800,
+        "duration": 180
+      },
+      "type": "INDIVIDUAL",
+      "timings": "10:00 AM - 1:00 PM",
+      "venue": "E-block Entrance",
+      "registration_link": null
+    },
+    {
+      "name": "Pixalated Playoffs",
+      "description": "FORGE presents the Pixalated Playoffs, a thrilling gaming triathlon featuring three of your favorite titles: Valorant, FIFA, and BGMI.\n\nValorant: This single-elimination tournament features random seeding, giving every team a fair shot at glory. One loss and your run is over, so assemble your best five-stack and dominate the competition.\n\nBGMI: Calling all Battle Royale champions! Put your strategic thinking and survival skills to the test in this intense BGMI tournament.\n\nFIFA: ⚽️ A single-elimination bracket throws you into fresh matchups based on random seeding. Do you have the lightning-fast reflexes, tactical mastery, and pinpoint finesse shots to claim the championship title?",
+      "club": {
+        "name": "FORGE",
+        "logo": "Club_Logos/FORGE.png",
+        "obs": []
+      },
+      "time": {
+        "start": 1713520800,
+        "duration": 360
+      },
+      "timings": "10:00 AM - 4:00pm",
+      "venue": "CSE Lab (Any 2)\nAIE Lab",
+      "type": "TEAM",
+      "registration_link": null
+    },
+    {
+      "name": "Ctrl Alt Jeopardy",
+      "description": "A trivia game show hosted at our own college. The basic format is 3 - 4 teams will clash in a battle of wits, answering trivia questions in the classic Jeopardy!\n\nThe game board will feature six categories with five clues each, ranging in difficulty from 200 brain points (easy) to 1000 brain points (super challenging).\n\nJust like the original show, each clue will be phrased as an answer. Remember, your response needs to be a question starting with \"What is...?\"\n\nThink fast! The first team to buzz in with the correct answer gets to claim the points. But there's a twist! Buzz in with the wrong answer, and your team loses the points you wagered on that clue.\n\nPower-Up Rounds:\n\nFinal Jeopardy!: After all the categories of the first board have been revealed, the top two teams face off in the ultimate final battle of lightening round.0020",
+      "club": {
+        "name": "FORGE",
+        "logo": "Club_Logos/FORGE.png",
+        "obs": []
+      },
+      "time": {
+        "start": 1713535200,
+        "duration": 120
+      },
+      "type": "TEAM",
+      "timings": "2:00 PM - 4:00 PM",
+      "venue": "Sudhamani Hall",
+      "registration_link": null
+    },
+    {
+      "name": "Riddleverse",
+      "description": "Explore the Multiverse of Riddles where riddles reign supreme!\n\nPut yourself though 3 fun rounds.\n\n1) Engage your intellect in “The Written Enigma\" as you unravel the mysteries hidden within each enigma.\n\n2) Unleash your creativity in “Decode & Draw”, where your sketches hold the key to unlocking the next challenge.\n\n3) And in “The Charades Challenge”, let your imagination run wild as you act out clues with flair.\n\nGet ready to immerse yourself in the enchanting world of riddles, where every solution brings you closer to enlightenment!",
+      "club": {
+        "name": "THE QUIZ CLUB",
+        "logo": "Club_Logos/Quiz_Club.png",
+        "obs": [
+          {
+            "name": "Manish Jain",
+            "designation": null,
+            "phone": "+917991391088",
+            "registration_no": null
+          },
+          {
+            "name": "Maddala Yagnasri Priya",
+            "designation": null,
+            "phone": "+918095532929",
+            "registration_no": null
+          },
+          {
+            "name": "Priyanshu Jha",
+            "designation": null,
+            "phone": "+919840369305",
+            "registration_no": null
+          }
+        ]
+      },
+      "type": "INDIVIDUAL",
+      "time": {
+        "start": 1713526200,
+        "duration": 90
+      },
+      "timings": "11:30 AM - 1:00 PM",
+      "venue": " Rama Hall",
+      "registration_link": null
+    },
+    {
+      "name": "ROBO-RACE",
+      "description": "The objective of the event is to capture the attention of students towards robotics. A Bluetooth controlled bot will be given to the students to operate on an obstacle track. Robots will navigate a challenging race track filled with bridges and sharp turns.\n\nCompetitors must showcase agility and speed as they strive to cover the course in record time.",
+      "club": {
+        "name": "ACROM IEEE-RAS",
+        "logo": "Club_Logos/ACROM_RAS.jpg",
+        "obs": [
+          {
+            "name": "Srinidhi Kannan",
+            "designation": null,
+            "phone": "+917483022659",
+            "registration_no": null
+          },
+          {
+            "name": "Suryaa E",
+            "designation": null,
+            "phone": "+919886233752",
+            "registration_no": null
+          },
+          {
+            "name": "Sharanya G",
+            "designation": null,
+            "phone": "+918792264576",
+            "registration_no": null
+          }
+        ]
+      },
+      "type": "TEAM",
+      "time": {
+        "start": 1713520800,
+        "duration": 180
+      },
+      "timings": "10:00 AM - 1:00 PM",
+      "venue": "Sudhamani Hall",
+      "registration_link": null
+    },
+    {
+      "name": "Solo Dance Competition",
+      "description": "A dance battle between individual dancers showcase their talent and creativity in various styles. Judges evaluate dancers based on Factors. This is categorised into two : Western and Classical.",
+      "club": {
+        "name": "NARTHANA: The Dance Forum",
+        "logo": "Club_Logos/Narthana.png",
+        "obs": []
+      },
+      "time": {
+        "start": 1713520800,
+        "duration": 90
+      },
+      "type": "INDIVIDUAL",
+      "timings": "10:00 AM - 11:30 AM",
+      "venue": "Main Stage ",
+      "registration_link": null
+    },
+    {
+      "name": "Group Dance Competition",
+      "description": "A dance battle between group of dancers showcase their talent and creativity together in various styles. Judges evaluate them based on factors.",
+      "club": {
+        "name": "NARTHANA: The Dance Forum",
+        "logo": "Club_Logos/Narthana.png",
+        "obs": []
+      },
+      "time": {
+        "start": 1713526200,
+        "duration": null
+      },
+      "type": "TEAM",
+      "timings": "11:30 AM - 01:00 PM",
+      "venue": "Main Stage",
+      "registration_link": null
+    },
+    {
+      "name": "Street Dance",
+      "description": "A dance battle on the streets of Fountain Road. There will be teams consisting of 4-5 people each, battling against each other. The competition would contain 2 rounds, the first one being a Selection round based on performances and the second one being an Impromptu Dance round. The teams must choose only Beats, EDMs, Raps and Tunes. No lyrics are allowed. The team that does the best during the final round wins.",
+      "club": {
+        "name": "NARTHANA: The Dance Forum",
+        "logo": "Club_Logos/Narthana.png",
+        "obs": []
+      },
+      "time": {
+        "start": 1713623400,
+        "duration": null
+      },
+      "type": "TEAM",
+      "timings": "2:30 PM - 3:30 PM",
+      "venue": "Fountain Road",
+      "registration_link": null
+    },
+    {
+      "name": "Virtual Stock market",
+      "description": "Join our Virtual Stock Market Challenge for a dynamic simulation of stock Market. Participants will experience real-time market conditions, make strategic decisions, and analyze portfolio performance. Register by Virtual app to compete for top rankings on the leaderboard and win prizes. The event offers a risk-free environment to hone investment skills, learn about market dynamics, and network with peers. Don't miss this opportunity to gain practical trading experience and test your financial acumen",
+      "club": {
+        "name": "INVESTO",
+        "logo": "Club_Logos/Investo.png",
+        "obs": [
+          {
+            "name": "Veera mouli",
+            "designation": "Executive",
+            "phone": "+917989894466",
+            "registration_no": null
+          },
+          {
+            "name": "A Shashank reddy",
+            "designation": "Executive",
+            "phone": "+917702290601",
+            "registration_no": null
+          }
+        ]
+      },
+      "type": "INDIVIDUAL",
+      "time": {
+        "start": 1713520800,
+        "duration": 90
+      },
+      "timings": "10:00 AM - 11:30 AM",
+      "venue": "Rama Hall",
+      "registration_link": null
+    },
+    {
+      "name": "Cadence Quest",
+      "description": "ROUND – 1\n\nSolo Singing:\n\nContestants get to perform classical and film songs to showcase their vocal skills The contestant is free to choose both the rounds Contestants who are a part of RAAGA should share their journey in RAAGA, a few things about their life, etc through a short video of 50 seconds. (Note: Approach AOC).\n      Solo Instrumental:\n\nInstrumentalists perform classical or film pieces, demonstrating their mastery of their chosen instrument Contestants who are a part of RAAGA should share their journey in RAAGA, a few things about their life, etc through a short video of 50 seconds. (Note: Approach AOC)\n\n\nROUND – 2:\n\nSolo Singing:\n\nThe top 6 singers (3 classical, 3 films) advance to the \"Battle round.\" In this round, pairs of singers are formed and each pair selects a song mashup from a chit. They compete against each other in a vocal showdown, with the twist being that they must also impress the judges compared to the other pairs. The best battle within the pairs advances to determine the overall winner of the solo singing competition.\n\nSolo Instrumental:\n\nThe top 3 instrumentalists advance to the \"Abstract round.\" In this round, instrumentalists have the freedom to play any piece they desire, showcasing their creativity, technical skill, and musicality.",
+      "club": {
+        "name": "RAAGA CLUB",
+        "logo": "Club_Logos/RAAGA.jpg",
+        "obs": [
+          {
+            "name": "Nithyashree",
+            "designation": null,
+            "phone": "+91 93530 68217",
+            "registration_no": null
+          },
+          {
+            "name": "Srivageesh K Srinidhi",
+            "designation": null,
+            "phone": "+91 9591403538",
+            "registration_no": null
+          }
+        ]
+      },
+      "type": "INDIVIDUAL",
+      "time": {
+        "start": 1713520800,
+        "duration": 180
+      },
+      "timings": "10:00 AM - 01:00 PM",
+      "venue": "Amriteshwari Hall",
+      "registration_link": null
+    },
+    {
+      "name": "Dramatic Harmonies",
+      "description": "The event comprises a single round where Abhinaya selects a chit from a bowl containing song names and enacts the title of the chosen song. Raaga participants then engage by guessing the song and proceeding to sing it out.",
+      "club": {
+        "name": "AMRITADHARA WING",
+        "logo": "Club_Logos/RAAGA.jpg",
+        "obs": [
+          {
+            "name": "Nithyashree",
+            "designation": null,
+            "phone": "+91 93530 68217",
+            "registration_no": null
+          },
+          {
+            "name": "Srivageesh K Srinidhi",
+            "designation": null,
+            "phone": "+91 9591403538",
+            "registration_no": null
+          }
+        ]
+      },
+      "type": "INDIVIDUAL",
+      "time": {
+        "start": 1713619800,
+        "duration": null
+      },
+      "timings": "1:30 PM - 3:30 PM",
+      "venue": "Main stage",
+      "registration_link": null
+    },
+    {
+      "name": "Art Exhibition",
+      "description": "A display of various artworks, showcasing the talents and creativity of different artists.",
+      "club": {
+        "name": "Sanskrithi",
+        "logo": "Club_Logos/kala.jpg",
+        "obs": []
+      },
+      "time": {
+        "start": 1713520800,
+        "duration": 360
+      },
+      "type": "INDIVIDUAL",
+      "timings": "10:00 AM - 04:00 PM",
+      "venue": "Krishna Lawn",
+      "registration_link": null
+    },
+    {
+      "name": "Art Stalls and Events",
+      "description": "STALLS:\nBookmarks Stall: A cozy nook offering an assortment of creatively designed bookmarks for literary enthusiasts to mark their pages in style.\nCrochet Stall: A stall offering handmade plush items crafted using crochet techniques.\nJewelry Stall: A stall showcasing a variety of jewelry pieces, including necklaces, earrings, bracelets, and rings, made from various materials like chains,charms, and beads.\nResin Art Stall (Pendants, Keychains): A stall featuring unique pendants and keychains made from resin.\nCharm Bracelet Making Live Stall (day1): A live stall providing materials and guidance for visitors to create personalized charm bracelets, often featuring an assortment of charms and beads.\nMehendi Live Stall(day1): A live stall where skilled artists create intricate henna designs (mehendi) on participants' hands.\nNail Art Live Stall (day2): A live stall offering nail art services, where we decorate nails with various designs, colors, and embellishments.\n\nEVENTS:\nDrawing competition: A short drawing challenge will be given to the artist which is time bound. Best art after the time ends wins.\n1min, 30 sec, 10 sec drawing challenge: Contestants will have 1 minute, 30 seconds, and 10 seconds to replicate the pose demonstrated by an executive through drawing. The most accurate rendition wins.",
+      "club": {
+        "name": "Sanskrithi",
+        "logo": "Club_Logos/kala.jpg",
+        "obs": [
+          {
+            "name": "K Srinidhi",
+            "designation": null,
+            "phone": "+91 97318 79406",
+            "registration_no": null
+          },
+          {
+            "name": "Namratha B",
+            "designation": null,
+            "phone": "+91 87925 03936",
+            "registration_no": null
+          }
+        ]
+      },
+      "time": {
+        "start": 1713520800,
+        "duration": 360
+      },
+      "timings": "10:00 AM - 04:00 PM",
+      "venue": "Krishna Lawn",
+      "registration_link": null
+    },
+    {
+      "name": "WHO IS THE CHEATER?",
+      "description": "Persons will be made to sit in groups of 4-6 depending upon no. of participants, link will be sent to their mobiles and one executive will be standing behind each of them. Questions related to Indian Mythology will be asked in the link and on taping it answer will also be displayed. Persons who raise their hands first after displaying the question, they can answer, and other persons will be guessing if the person has cheated or not. If the persons guess is correct, he will be getting the points, otherwise there will be negative marking, and the person who has answered will be getting the points. It will be played in three rounds, each time two persons will be selected for next round.",
+      "club": {
+        "name": "VEDAVANI- SANSKRIT AND VEDANTA CLUBS",
+        "logo": "Club_Logos/Vedavani.jpg",
+        "obs": [
+          {
+            "name": "Nandan Vaddempudi",
+            "designation": "Vice President",
+            "phone": "+919356455413",
+            "registration_no": "BL.EN.U4EAC22039"
+          }
+        ]
+      },
+      "type": "TEAM",
+      "time": {
+        "start": 1713535200,
+        "duration": 120
+      },
+      "timings": "2:00PM to 4:00PM",
+      "venue": "Rama Hall",
+      "registration_link": null
+    },
+    {
+      "name": "DEBATE ON THE DILEMMAS AND CONTROVERSIES OF THE INDIAN MYTHOLOGY",
+      "description": "Topics related to Indian Mythology will be given that is a little controversial and have a dilemma, two persons will be there, one will be speaking in support of the statement and the second will be speaking against it. The time given will be 1 minute for the debate, and 30 secs will be given to think after the topic is given, topics will be given randomly, those who don't know about the topic will be given information about the topic. The persons have to put their statements one after the other in that 1 minute. The judge will evaluate them and results will be declared.",
+      "club": {
+        "name": "VEDAVANI- SANSKRIT AND VEDANTA CLUBS",
+        "logo": "Club_Logos/Vedavani.jpg",
+        "obs": [
+          {
+            "name": "Nandan Vaddempudi",
+            "designation": "Vice President",
+            "phone": "+919356455413",
+            "registration_no": "BL.EN.U4EAC22039"
+          }
+        ]
+      },
+      "type": "TEAM",
+      "time": {
+        "start": 1713619800,
+        "duration": 120
+      },
+      "timings": "1:30PM-3:30PM",
+      "venue": "Amriteshwari Hall",
+      "registration_link": null
+    }
+  ],
+  "20_4_24": [
+    {
+      "name": "Science Spotlight-An Intriguing Segment",
+      "description": "Simple and Entertaining Experiments\n\nElephant Toothpaste: Mix hydrogen peroxide, dish soap, and yeast to create a foamy eruption that resembles toothpaste for an elephant! It's visually stunning and safe to do with proper precautions.\n\nPasta Tower Challenge: Provide participants with uncooked spaghetti noodles and marshmallows or gumdrops, and challenge them to build the tallest freestanding tower possible. It's a fun way to explore principles of stability and structural engineering.\n\nSeltzer Bottle Rockets: Create simple rockets using empty seltzer bottles, water, and a bike pump or air compressor. Participants can experiment with different water levels and air pressures to achieve maximum launch height.\n\nAluminum Foil Boats: Give participants a sheet of aluminum foil and challenge them to fold it into a boat that can float and hold the most weight (such as pennies or marbles) without sinking.\n\nPaper Airplane Challenge: Have participants fold a paper airplane using a standard sheet of paper, and challenge them to design and fold the airplane that can fly the farthest or stay in the air the longest.\n\nInvisible Ink: Create invisible ink using lemon juice, baking soda solution, or milk. Write secret messages with the invisible ink and reveal them using heat (such as holding the paper near a light bulb) or by applying a developing agent (such as iodine vapor).",
+      "club": {
+        "name": "AMRITADHARA WING (Sanskrithi / Prachodhana)",
+        "logo": "Club_Logos/Aavishkara.png",
+        "obs": [
+          {
+            "name": "Gopa P",
+            "designation": "Executive",
+            "phone": "+91 8106666127",
+            "registration_no": null
+          }
+        ]
+      },
+      "time": {
+        "start": 1713605400,
+        "duration": 360
+      },
+      "type": "TEAM",
+      "timings": "9:30AM - 03:30PM",
+      "venue": "E-block Entrance",
+      "registration_link": null
+    },
+    {
+      "name": "BEST ACTOR/ACTRESS",
+      "description": "The \"Best Actor\" event is a highly anticipated competition that brings together theater performers to showcase their talent and skill in captivating and immersive performances. It features challenges that test actors' abilities to think creatively, collaborate effectively, and portray a diverse range of characters with authenticity and depth. The event not only celebrates the art of acting but also fosters a sense of camaraderie and mutual respect among performers, making it a vibrant and enriching experience for both participants and audience members alike.",
+      "club": {
+        "name": "ABHINAYA- The Drama Club",
+        "logo": "Club_Logos/Abhinaya.png",
+        "obs": [
+          {
+            "name": "Pranav Chintalapudi",
+            "designation": null,
+            "phone": "+91 6362400539",
+            "registration_no": null
+          }
+        ]
+      },
+      "type": "INDIVIDUAL",
+      "time": {
+        "start": 1713605400,
+        "duration": 180
+      },
+      "timings": "9:30 AM - 12:30 PM",
+      "venue": "Main Stage",
+      "registration_link": null
+    },
+    {
+      "name": "Lit-Day, Open Mic & Literature Treasure Hunt",
+      "description": "Literature Day will be an event filled with magic of literature, people dressing up, book fairs and so on. The Open Mic is an opportunity to showcase all your skills through the magic of words.The Literature Treasure hunt will bring stories to life.",
+      "club": {
+        "name": "DHWANI: THE LITERARY CLUB",
+        "logo": "Club_Logos/DHWANI.png",
+        "obs": [
+          {
+            "name": "M. Pranavkrishnan",
+            "designation": null,
+            "phone": "+91 9080567559",
+            "registration_no": null
+          }
+        ]
+      },
+      "type": "INDIVIDUAL",
+      "time": {
+        "start": 1713619800,
+        "duration": 120
+      },
+      "timings": "1:30 PM - 3:30 PM",
+      "venue": "ATM Road",
+      "registration_link": null
+    },
+    {
+      "name": "Escape Room",
+      "description": "The objective of the game is for players to escape from a room by solving a series of entertaining riddles and answering questions. The team that escapes the room in the shortest amount of time and with minimal hints will win the game.",
+      "club": {
+        "name": "VYOM X Sankya",
+        "logo": "Club_Logos/Vyom.png",
+        "obs": [
+          {
+            "name": "Kanaganandini Kanagaraj",
+            "designation": "Executive",
+            "phone": "+91 9015399176",
+            "registration_no": null
+          },
+          {
+            "name": "Daksh Dobhal",
+            "designation": "Executive",
+            "phone": "+91 89794 11655",
+            "registration_no": null
+          }
+        ]
+      },
+      "type": "TEAM",
+      "time": {
+        "start": 1713605400,
+        "duration": 180
+      },
+      "timings": "9:30 AM - 12:30 PM",
+      "venue": "Sudhamani Hall",
+      "registration_link": null
+    },
+    {
+      "name": "AI Artistry & PrisonCTF",
+      "description": "Microsoft Ignites Students Club presents a dynamic event featuring two engaging rounds that challenge participants' skills in AI artistry and cybersecurity. With a total duration of 2 hours, participants will delve into the realms of picture generation using AI and prompt injection questions to capture flags in a CTF challenge.\n\nRound 1: AI Artistry (45 mins)\n\nIn this round, participants will demonstrate their creativity and AI prowess by generating images similar to or inspired by given pictures using AI algorithms. Additionally, they'll use provided text prompts to generate related textual content.\n\nRound 2: PrisonCTF (1 hour)\n\nParticipants will engage in a Capture the Flag (CTF) challenge where they'll prompt injection questions to retrieve flags, showcasing their cybersecurity knowledge and problem-solving skills.",
+      "club": {
+        "name": "Microsoft Ignites Students Club",
+        "logo": "Club_Logos/MISC.png",
+        "obs": [
+          {
+            "name": "B.U.Naveen Raj",
+            "designation": "President",
+            "phone": "+918095981108",
+            "registration_no": "BL.EN.U4CSE22209"
+          },
+          {
+            "name": "Nishith P",
+            "designation": "Vice President",
+            "phone": "+919738342285",
+            "registration_no": "BL.EN.U4CSE22209"
+          },
+          {
+            "name": "Shivram Mohan",
+            "designation": "Vice President",
+            "phone": "+918910849981",
+            "registration_no": "BL.EN.U4CSE22209"
+          }
+        ]
+      },
+      "type": "INDIVIDUAL",
+      "time": {
+        "start": 1713576600,
+        "duration": 120
+      },
+      "timings": "1:30PM-3:30PM",
+      "venue": "Rama Hall",
+      "registration_link": null
+    }
+  ]
+}

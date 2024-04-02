@@ -1,0 +1,37 @@
+#gratitude-corner {
+  height: 50px;
+  padding: 20px;
+  font-size: 2em;
+  text-align: center;
+  color: #fff;
+  overflow-x: auto;
+  background: hsla(341, 94%, 49%, 1);
+
+  background: linear-gradient(
+    330deg,
+    hsla(341, 94%, 49%, 1) 0%,
+    hsla(16, 90%, 77%, 1) 100%
+  );
+
+  background: -moz-linear-gradient(
+    330deg,
+    hsla(341, 94%, 49%, 1) 0%,
+    hsla(16, 90%, 77%, 1) 100%
+  );
+
+  background: -webkit-linear-gradient(
+    330deg,
+    hsla(341, 94%, 49%, 1) 0%,
+    hsla(16, 90%, 77%, 1) 100%
+  );
+
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F40752", endColorstr="#F9AB8F", GradientType=1 );
+  font-family: "Crimson Text", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-shadow:
+    2px 8px 6px rgba(0, 0, 0, 0.2),
+    0px -5px 35px rgba(255, 255, 255, 0.3);
+}

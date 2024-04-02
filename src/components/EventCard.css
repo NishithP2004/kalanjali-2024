@@ -1,0 +1,64 @@
+.event-card {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  width: 350px;
+  box-sizing: border-box;
+  align-items: center;
+  background-image: url("https://t3.ftcdn.net/jpg/03/61/96/08/360_F_361960870_UW7evqdYC5VQloEmRJA3clZGQLq5Zauu.jpg");
+  border: 3px solid yellow;
+  color: #4b006e;
+  transition: all 0.25s linear;
+  gap: 8px;
+}
+
+.event-card:hover {
+  transform: scale(1.05);
+}
+
+.club-logo {
+  width: 80px !important;
+  height: 80px;
+  clip-path: circle(50% at 50% 50%);
+}
+
+.event-details .event-type {
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+  margin: 10px auto auto;
+  color: #4b006e;
+  font-family: "Lato", sans-serif;
+  text-transform: capitalize;
+}
+
+.event-btn {
+  background-color: transparent;
+}
+
+.event-name a:link {
+  text-decoration: none;
+}
+
+.event-details p {
+  margin: 10px auto;
+}
+
+.event-btn {
+  cursor: pointer;
+  margin-left: auto;
+}
+
+.event-btn:hover {
+  color: #4b006e;
+}
+
+.event-name a {
+  color: azure !important;
+  font-family: "Playfair Display", sans-serif;
+}
+
+.event-details {
+  color: azure;
+  font-family: "Crimson Text", sans-serif;
+}
