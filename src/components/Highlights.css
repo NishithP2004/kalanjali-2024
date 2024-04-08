@@ -1,5 +1,6 @@
 #highlights {
-  background-image: url("https://img.freepik.com/premium-photo/indian-paisley-traditional-pattern-background-texture-design-wallpaper-indian-art-seamless-tile-generative-ai_877869-1466.jpg");
+  /* background-image: url("https://img.freepik.com/premium-photo/indian-paisley-traditional-pattern-background-texture-design-wallpaper-indian-art-seamless-tile-generative-ai_877869-1466.jpg"); */
+  background-image: url("/collage1.png");
   padding-bottom: 30px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -20,7 +21,7 @@
 .box {
   flex-grow: 1;
   overflow: hidden;
-  background-image: url("https://t3.ftcdn.net/jpg/03/61/96/08/360_F_361960870_UW7evqdYC5VQloEmRJA3clZGQLq5Zauu.jpg");
+  /* background-image: url("https://t3.ftcdn.net/jpg/03/61/96/08/360_F_361960870_UW7evqdYC5VQloEmRJA3clZGQLq5Zauu.jpg"); */
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -28,7 +29,7 @@
   width: 30px;
   transition: all 0.25s linear;
   height: 400px;
-  border: 3px solid #ede60e;
+  border: 3px solid rgba(255, 0, 0, 0.25);
   margin: 0 10px;
   color: #fdfefe;
 }
@@ -39,11 +40,12 @@
   object-fit: cover;
   border-bottom: 1px solid #ddd;
   align-items: end;
+  opacity: 0.80;
 }
 
-.box:hover {
+/* .box:hover {
   background-color: #e0e0e0;
-}
+} */
 
 .box:hover {
   transform: scale(1.05);

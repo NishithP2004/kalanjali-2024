@@ -20,13 +20,13 @@ function EventDialog(props) {
   };
 
   return (
-    <Dialog open={open} onClose={handleClose} fullWidth maxWidth="sm">
+    <Dialog open={open} onClose={handleClose} fullWidth maxWidth="sm" style={{ backgroundImage: "url('paper-texture.jpg')", backgroundSize: "cover", backgroundPosition: "center" }}>
       <DialogTitle>
         <div
           style={{
             display: "flex",
             justifyContent: "space-between",
-            alignItems: "center",
+            alignItems: "center"
           }}
         >
           {props.event.club.name}
@@ -43,7 +43,16 @@ function EventDialog(props) {
       <DialogContent style={{ display: "flex", flexDirection: "column" }}>
         <div className="event-details-complete">
           <h2 className="event-name">{props.event.name}</h2>
-          <p className="event-description">{props.event.description}</p>
+          <p className="event-description">
+            {props.event.description.split("\n").map((line) => {
+              return (
+                <>
+                  {line}
+                  <br />
+                </>
+              );
+            })}
+          </p>
           <div
             className="event-details"
             style={{
@@ -66,17 +75,16 @@ function EventDialog(props) {
               );
             })}
           </ol>
-          <button
-            className="register-btn"
-            onClick={() => {
-              window.open(props.event.registration_link, "_blank");
-            }}
-            style={{
-              display: props.event.club.registration_link ? "block" : "none",
-            }}
-          >
-            Register Now
-          </button>
+          {props.event.registration_link ? (
+            <button
+              className="register-btn"
+              onClick={() => {
+                window.open(props.event.registration_link, "_blank");
+              }}
+            >
+              Register Now
+            </button>
+          ) : null}
         </div>
       </DialogContent>
     </Dialog>

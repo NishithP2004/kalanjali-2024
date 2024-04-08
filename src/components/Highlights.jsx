@@ -4,7 +4,7 @@ function Highlights() {
   return (
     <div className="section">
       <div className="box-container">
-        <div className="box">
+        <div className="box glass">
           <img
             className="box-image"
             src="https://cdn.shopify.com/s/files/1/0331/6806/4645/files/collectionbannerDancendMusic-01.jpg?v=1671017747"
@@ -17,30 +17,30 @@ function Highlights() {
             <p>📍18th April</p>
           </div>
         </div>
-        <div className="box">
+        <div className="box glass">
           <img
             className="box-image"
             src="https://sc0.blr1.cdn.digitaloceanspaces.com/article/112127-bkyvzivrps-1549182257.jpg"
             alt="Image 2"
           />
           <div className="box-content">
-            <h2>Movie screening</h2>
+            <h2>Movie Screening</h2>
             <p>📅19th April</p>
             <p>⏰6 to 7:30pm</p>
-            <p>📍Main stage</p>
+            <p>📍Main Stage</p>
           </div>
         </div>
-        <div className="box">
+        <div className="box glass">
           <img
             className="box-image"
             src="https://okcredit-blog-images-prod.storage.googleapis.com/2021/05/DJ-business1--1-.jpg"
             alt="Image 3"
           />
           <div className="box-content">
-            <h2>Musical night</h2>
+            <h2>Musical Night</h2>
             <p>📅20th April</p>
             <p>⏰6 to 7:45pm</p>
-            <p>📍Main stage</p>
+            <p>📍Main Stage</p>
           </div>
         </div>
       </div>

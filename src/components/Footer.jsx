@@ -7,7 +7,7 @@ function Footer() {
     <footer>
       <div className="footer-top">
         <img
-          src="amrita_whitepx.png"
+          src="amrita_purplepx.png"
           alt="Amrita Vishwa Vidyapeetham"
           className="amrita-logo"
           onClick={() => window.open("https://amrita.edu", "_blank")}

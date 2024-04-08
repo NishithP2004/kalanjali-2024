@@ -9,21 +9,21 @@
         "obs": [
           {
             "name": "S Ajay Ratnam",
-            "designation": null,
+            "designation": "President",
             "phone": "+916383842602",
-            "registration_no": null
+            "registration_no": "BL.EN.U4CSE22146"
           },
           {
             "name": "Nishith P",
-            "designation": null,
+            "designation": "Vice President",
             "phone": "+919738342285",
-            "registration_no": null
+            "registration_no": "BL.EN.U4CSE22138"
           },
           {
             "name": "Vinitha Chowdary",
-            "designation": null,
+            "designation": "Vice President",
             "phone": "+919481077745",
-            "registration_no": null
+            "registration_no": "BL.EN.U4AIE22066"
           }
         ]
       },
@@ -73,7 +73,7 @@
         "duration": 360
       },
       "timings": "10:00 AM - 4:00pm",
-      "venue": "CSE Lab (Any 2)\nAIE Lab",
+      "venue": "CSE Lab /\nAIE Lab",
       "type": "TEAM",
       "registration_link": null
     },
@@ -281,7 +281,7 @@
       "name": "Dramatic Harmonies",
       "description": "The event comprises a single round where Abhinaya selects a chit from a bowl containing song names and enacts the title of the chosen song. Raaga participants then engage by guessing the song and proceeding to sing it out.",
       "club": {
-        "name": "AMRITADHARA WING",
+        "name": "RAAGA",
         "logo": "Club_Logos/RAAGA.jpg",
         "obs": [
           {
@@ -311,7 +311,7 @@
       "name": "Art Exhibition",
       "description": "A display of various artworks, showcasing the talents and creativity of different artists.",
       "club": {
-        "name": "Sanskrithi",
+        "name": "Kala",
         "logo": "Club_Logos/kala.jpg",
         "obs": []
       },
@@ -328,7 +328,7 @@
       "name": "Art Stalls and Events",
       "description": "STALLS:\nBookmarks Stall: A cozy nook offering an assortment of creatively designed bookmarks for literary enthusiasts to mark their pages in style.\nCrochet Stall: A stall offering handmade plush items crafted using crochet techniques.\nJewelry Stall: A stall showcasing a variety of jewelry pieces, including necklaces, earrings, bracelets, and rings, made from various materials like chains,charms, and beads.\nResin Art Stall (Pendants, Keychains): A stall featuring unique pendants and keychains made from resin.\nCharm Bracelet Making Live Stall (day1): A live stall providing materials and guidance for visitors to create personalized charm bracelets, often featuring an assortment of charms and beads.\nMehendi Live Stall(day1): A live stall where skilled artists create intricate henna designs (mehendi) on participants' hands.\nNail Art Live Stall (day2): A live stall offering nail art services, where we decorate nails with various designs, colors, and embellishments.\n\nEVENTS:\nDrawing competition: A short drawing challenge will be given to the artist which is time bound. Best art after the time ends wins.\n1min, 30 sec, 10 sec drawing challenge: Contestants will have 1 minute, 30 seconds, and 10 seconds to replicate the pose demonstrated by an executive through drawing. The most accurate rendition wins.",
       "club": {
-        "name": "Sanskrithi",
+        "name": "Kala",
         "logo": "Club_Logos/kala.jpg",
         "obs": [
           {
@@ -345,6 +345,7 @@
           }
         ]
       },
+      "type": "INDIVIDUAL",
       "time": {
         "start": 1713520800,
         "duration": 360
@@ -376,30 +377,6 @@
       "timings": "2:00PM to 4:00PM",
       "venue": "Rama Hall",
       "registration_link": null
-    },
-    {
-      "name": "DEBATE ON THE DILEMMAS AND CONTROVERSIES OF THE INDIAN MYTHOLOGY",
-      "description": "Topics related to Indian Mythology will be given that is a little controversial and have a dilemma, two persons will be there, one will be speaking in support of the statement and the second will be speaking against it. The time given will be 1 minute for the debate, and 30 secs will be given to think after the topic is given, topics will be given randomly, those who don't know about the topic will be given information about the topic. The persons have to put their statements one after the other in that 1 minute. The judge will evaluate them and results will be declared.",
-      "club": {
-        "name": "VEDAVANI- SANSKRIT AND VEDANTA CLUBS",
-        "logo": "Club_Logos/Vedavani.jpg",
-        "obs": [
-          {
-            "name": "Nandan Vaddempudi",
-            "designation": "Vice President",
-            "phone": "+919356455413",
-            "registration_no": "BL.EN.U4EAC22039"
-          }
-        ]
-      },
-      "type": "TEAM",
-      "time": {
-        "start": 1713619800,
-        "duration": 120
-      },
-      "timings": "1:30PM-3:30PM",
-      "venue": "Amriteshwari Hall",
-      "registration_link": null
     }
   ],
   "20_4_24": [
@@ -407,7 +384,7 @@
       "name": "Science Spotlight-An Intriguing Segment",
       "description": "Simple and Entertaining Experiments\n\nElephant Toothpaste: Mix hydrogen peroxide, dish soap, and yeast to create a foamy eruption that resembles toothpaste for an elephant! It's visually stunning and safe to do with proper precautions.\n\nPasta Tower Challenge: Provide participants with uncooked spaghetti noodles and marshmallows or gumdrops, and challenge them to build the tallest freestanding tower possible. It's a fun way to explore principles of stability and structural engineering.\n\nSeltzer Bottle Rockets: Create simple rockets using empty seltzer bottles, water, and a bike pump or air compressor. Participants can experiment with different water levels and air pressures to achieve maximum launch height.\n\nAluminum Foil Boats: Give participants a sheet of aluminum foil and challenge them to fold it into a boat that can float and hold the most weight (such as pennies or marbles) without sinking.\n\nPaper Airplane Challenge: Have participants fold a paper airplane using a standard sheet of paper, and challenge them to design and fold the airplane that can fly the farthest or stay in the air the longest.\n\nInvisible Ink: Create invisible ink using lemon juice, baking soda solution, or milk. Write secret messages with the invisible ink and reveal them using heat (such as holding the paper near a light bulb) or by applying a developing agent (such as iodine vapor).",
       "club": {
-        "name": "AMRITADHARA WING (Sanskrithi / Prachodhana)",
+        "name": "Aavishkara",
         "logo": "Club_Logos/Aavishkara.png",
         "obs": [
           {
@@ -419,7 +396,7 @@
         ]
       },
       "time": {
-        "start": 1713605400,
+        "start": 1713585600,
         "duration": 360
       },
       "type": "TEAM",
@@ -444,7 +421,7 @@
       },
       "type": "INDIVIDUAL",
       "time": {
-        "start": 1713605400,
+        "start": 1713585600,
         "duration": 180
       },
       "timings": "9:30 AM - 12:30 PM",
@@ -468,7 +445,7 @@
       },
       "type": "INDIVIDUAL",
       "time": {
-        "start": 1713619800,
+        "start": 1713600000,
         "duration": 120
       },
       "timings": "1:30 PM - 3:30 PM",
@@ -498,7 +475,7 @@
       },
       "type": "TEAM",
       "time": {
-        "start": 1713605400,
+        "start": 1713585600,
         "duration": 180
       },
       "timings": "9:30 AM - 12:30 PM",
@@ -507,7 +484,7 @@
     },
     {
       "name": "AI Artistry & PrisonCTF",
-      "description": "Microsoft Ignites Students Club presents a dynamic event featuring two engaging rounds that challenge participants' skills in AI artistry and cybersecurity. With a total duration of 2 hours, participants will delve into the realms of picture generation using AI and prompt injection questions to capture flags in a CTF challenge.\n\nRound 1: AI Artistry (45 mins)\n\nIn this round, participants will demonstrate their creativity and AI prowess by generating images similar to or inspired by given pictures using AI algorithms. Additionally, they'll use provided text prompts to generate related textual content.\n\nRound 2: PrisonCTF (1 hour)\n\nParticipants will engage in a Capture the Flag (CTF) challenge where they'll prompt injection questions to retrieve flags, showcasing their cybersecurity knowledge and problem-solving skills.",
+      "description": "Microsoft Ignites Students Club presents a dynamic event featuring two engaging rounds that challenge participants' skills in AI artistry and cybersecurity. The participants will delve into the realms of picture generation using AI and prompt injection questions to capture flags in a CTF challenge.\n\nRound 1: AI Artistry (45 mins)\n\nIn this round, participants will demonstrate their creativity and AI prowess by generating images similar to or inspired by given pictures using AI algorithms. Additionally, they'll use provided text prompts to generate related textual content.\n\nRound 2: PrisonCTF (1 hour)\n\nParticipants will engage in a Capture the Flag (CTF) challenge where they'll prompt injection questions to retrieve flags, showcasing their cybersecurity knowledge and problem-solving skills.",
       "club": {
         "name": "Microsoft Ignites Students Club",
         "logo": "Club_Logos/MISC.png",
@@ -534,11 +511,35 @@
       },
       "type": "INDIVIDUAL",
       "time": {
-        "start": 1713576600,
+        "start": 1713600000,
         "duration": 120
       },
       "timings": "1:30PM-3:30PM",
       "venue": "Rama Hall",
+      "registration_link": null
+    },
+    {
+      "name": "DEBATE ON THE DILEMMAS AND CONTROVERSIES OF THE INDIAN MYTHOLOGY",
+      "description": "Topics related to Indian Mythology will be given that is a little controversial and have a dilemma, two persons will be there, one will be speaking in support of the statement and the second will be speaking against it. The time given will be 1 minute for the debate, and 30 secs will be given to think after the topic is given, topics will be given randomly, those who don't know about the topic will be given information about the topic. The persons have to put their statements one after the other in that 1 minute. The judge will evaluate them and results will be declared.",
+      "club": {
+        "name": "VEDAVANI- SANSKRIT AND VEDANTA CLUBS",
+        "logo": "Club_Logos/Vedavani.jpg",
+        "obs": [
+          {
+            "name": "Nandan Vaddempudi",
+            "designation": "Vice President",
+            "phone": "+919356455413",
+            "registration_no": "BL.EN.U4EAC22039"
+          }
+        ]
+      },
+      "type": "TEAM",
+      "time": {
+        "start": 1713600000,
+        "duration": 120
+      },
+      "timings": "1:30PM-3:30PM",
+      "venue": "Amriteshwari Hall",
       "registration_link": null
     }
   ]
