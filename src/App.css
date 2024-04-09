@@ -45,7 +45,8 @@ main {
   flex-direction: row;
 }
 
-#schedule {
+#schedule,
+#posters {
   height: auto;
 }
 

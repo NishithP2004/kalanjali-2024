@@ -5,6 +5,7 @@ import Section from "./components/Section";
 import Schedule from "./components/Schedule";
 import Highlights from "./components/Highlights";
 import GratitudeCorner from "./components/GratitudeCorner";
+import Posters from "./components/Posters";
 
 function App() {
   return (
@@ -21,6 +22,10 @@ function App() {
       <Section id="schedule">
         <h2>Schedule</h2>
         <Schedule />
+      </Section>
+      <Section id="posters">
+        <h2>Posters</h2>
+        <Posters />
       </Section>
       <GratitudeCorner />
       <Footer />

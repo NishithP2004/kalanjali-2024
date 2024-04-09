@@ -20,13 +20,23 @@ function EventDialog(props) {
   };
 
   return (
-    <Dialog open={open} onClose={handleClose} fullWidth maxWidth="sm" style={{ backgroundImage: "url('paper-texture.jpg')", backgroundSize: "cover", backgroundPosition: "center" }}>
+    <Dialog
+      open={open}
+      onClose={handleClose}
+      fullWidth
+      maxWidth="sm"
+      style={{
+        backgroundImage: "url('paper-texture.jpg')",
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+      }}
+    >
       <DialogTitle>
         <div
           style={{
             display: "flex",
             justifyContent: "space-between",
-            alignItems: "center"
+            alignItems: "center",
           }}
         >
           {props.event.club.name}

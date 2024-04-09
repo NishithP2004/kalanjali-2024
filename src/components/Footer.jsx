@@ -19,12 +19,12 @@ function Footer() {
         </p>
         <ul className="social-links">
           <li>
-            <a href="https://www.instagram.com/kalanjali" target="_blank">
+            <a href="https://www.instagram.com/kalanjali.aseb" target="_blank">
               <InstagramIcon />
             </a>
           </li>
           <li>
-            <a href="mailto:contact@amrita.edu" target="_blank">
+            <a href="mailto:sa@blr.amrita.edu" target="_blank">
               <AlternateEmailIcon />
             </a>
           </li>
