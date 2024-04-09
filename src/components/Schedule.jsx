@@ -35,11 +35,14 @@ function Schedule() {
   };
 
   return (
-    <Box sx={{ width: "100%", margin: "auto", maxWidth: "1000px" }}>
+    <Box
+      sx={{ width: "100%", margin: "auto", maxWidth: "1000px" }}
+      className="glass"
+    >
       <Box sx={{ borderBottom: 1, borderColor: "divider" }}>
         <Tabs value={value} onChange={handleChange}>
-          <Tab label="19th April" index={0} />
-          <Tab label="20th April" index={1} />
+          <Tab label="19th April" index={0} style={{ color: "azure" }} />
+          <Tab label="20th April" index={1} style={{ color: "azure" }} />
         </Tabs>
       </Box>
       <CustomTabPanel value={value} index={0}>

@@ -1,11 +1,12 @@
 #highlights {
   /* background-image: url("https://img.freepik.com/premium-photo/indian-paisley-traditional-pattern-background-texture-design-wallpaper-indian-art-seamless-tile-generative-ai_877869-1466.jpg"); */
-  background-image: url("/collage1.png");
-  padding-bottom: 30px;
-  background-repeat: no-repeat;
+  /* background-image: url("/collage1.png"); */
+  background-image: url("/highlights_bg.png");
   background-size: cover;
+  background-repeat: no-repeat;
+  color: azure;
+  padding-bottom: 30px;
   text-align: center;
-  color: #fff;
   height: auto;
 }
 

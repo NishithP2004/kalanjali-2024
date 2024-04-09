@@ -14,7 +14,7 @@ function Highlights() {
             <h2>MAD Evening</h2>
             <p>📅18th April</p>
             <p>⏰5:30pm to 7:30pm</p>
-            <p>📍18th April</p>
+            <p>📍Main Stage</p>
           </div>
         </div>
         <div className="box glass">
@@ -37,7 +37,7 @@ function Highlights() {
             alt="Image 3"
           />
           <div className="box-content">
-            <h2>Musical Night</h2>
+            <h2>Musical Evening</h2>
             <p>📅20th April</p>
             <p>⏰6 to 7:45pm</p>
             <p>📍Main Stage</p>

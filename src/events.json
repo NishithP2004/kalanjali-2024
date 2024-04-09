@@ -66,7 +66,14 @@
       "club": {
         "name": "FORGE",
         "logo": "Club_Logos/FORGE.png",
-        "obs": []
+        "obs": [
+          {
+            "name": "Sneha T Raghavan",
+            "designation": null,
+            "phone": "+91 9745730691",
+            "registration_no": null
+          }
+        ]
       },
       "time": {
         "start": 1713520800,
@@ -83,7 +90,14 @@
       "club": {
         "name": "FORGE",
         "logo": "Club_Logos/FORGE.png",
-        "obs": []
+        "obs": [
+          {
+            "name": "Sneha T Raghavan",
+            "designation": null,
+            "phone": "+91 9745730691",
+            "registration_no": null
+          }
+        ]
       },
       "time": {
         "start": 1713535200,
@@ -172,7 +186,14 @@
       "club": {
         "name": "NARTHANA: The Dance Forum",
         "logo": "Club_Logos/Narthana.png",
-        "obs": []
+        "obs": [
+          {
+            "name": "Devansh Handa, ",
+            "designation": null,
+            "phone": "91136 82389",
+            "registration_no": null
+          }
+        ]
       },
       "time": {
         "start": 1713520800,
@@ -189,7 +210,14 @@
       "club": {
         "name": "NARTHANA: The Dance Forum",
         "logo": "Club_Logos/Narthana.png",
-        "obs": []
+        "obs": [
+          {
+            "name": "Devansh Handa, ",
+            "designation": null,
+            "phone": "91136 82389",
+            "registration_no": null
+          }
+        ]
       },
       "time": {
         "start": 1713526200,
@@ -206,7 +234,14 @@
       "club": {
         "name": "NARTHANA: The Dance Forum",
         "logo": "Club_Logos/Narthana.png",
-        "obs": []
+        "obs": [
+          {
+            "name": "Devansh Handa, ",
+            "designation": null,
+            "phone": "91136 82389",
+            "registration_no": null
+          }
+        ]
       },
       "time": {
         "start": 1713623400,
@@ -313,7 +348,20 @@
       "club": {
         "name": "Kala",
         "logo": "Club_Logos/kala.jpg",
-        "obs": []
+        "obs": [
+          {
+            "name": "K Srinidhi",
+            "designation": null,
+            "phone": "+91 97318 79406",
+            "registration_no": null
+          },
+          {
+            "name": "Namratha B",
+            "designation": null,
+            "phone": "+91 87925 03936",
+            "registration_no": null
+          }
+        ]
       },
       "time": {
         "start": 1713520800,
