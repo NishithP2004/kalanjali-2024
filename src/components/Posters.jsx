@@ -50,7 +50,7 @@ function Posters() {
         rewind={true}
         autoplay={true}
         pagination={{
-            dynamicBullets: true
+          dynamicBullets: true,
         }}
         modules={[EffectCoverflow, Pagination]}
         className="mySwiper"
