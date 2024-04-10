@@ -5,8 +5,9 @@
   width: 350px;
   box-sizing: border-box;
   align-items: center;
-  background-image: url("https://t3.ftcdn.net/jpg/03/61/96/08/360_F_361960870_UW7evqdYC5VQloEmRJA3clZGQLq5Zauu.jpg");
-  border: 3px solid yellow;
+  /* background-image: url("https://t3.ftcdn.net/jpg/03/61/96/08/360_F_361960870_UW7evqdYC5VQloEmRJA3clZGQLq5Zauu.jpg");
+  border: 3px solid yellow; */
+  border: 3px solid rgba(0, 0, 0, 0.5);
   color: #4b006e;
   transition: all 0.25s linear;
   gap: 8px;
@@ -50,10 +51,11 @@
 .event-btn {
   cursor: pointer;
   margin-left: auto;
+  color: azure;
 }
 
 .event-btn:hover {
-  color: #4b006e;
+  color: gold;
 }
 
 .event-name a {

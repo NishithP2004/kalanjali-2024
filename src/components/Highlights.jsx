@@ -9,11 +9,14 @@ function Highlights() {
             className="box-image"
             src="https://cdn.shopify.com/s/files/1/0331/6806/4645/files/collectionbannerDancendMusic-01.jpg?v=1671017747"
             alt="Image 1"
+            style={{
+              objectPosition: "left",
+            }}
           />
           <div className="box-content">
             <h2>MAD Evening</h2>
             <p>📅18th April</p>
-            <p>⏰5:30pm to 7:30pm</p>
+            <p>⏰5:30PM to 7:30PM</p>
             <p>📍Main Stage</p>
           </div>
         </div>
@@ -26,7 +29,7 @@ function Highlights() {
           <div className="box-content">
             <h2>Movie Screening</h2>
             <p>📅19th April</p>
-            <p>⏰6 to 7:30pm</p>
+            <p>⏰6:00PM to 7:30PM</p>
             <p>📍Main Stage</p>
           </div>
         </div>
@@ -39,7 +42,7 @@ function Highlights() {
           <div className="box-content">
             <h2>Musical Evening</h2>
             <p>📅20th April</p>
-            <p>⏰6 to 7:45pm</p>
+            <p>⏰6:00PM to 7:45PM</p>
             <p>📍Main Stage</p>
           </div>
         </div>

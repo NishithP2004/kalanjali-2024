@@ -77,10 +77,12 @@ function EventDialog(props) {
             {props.event.club.obs.map((ob, index) => {
               return (
                 <li key={index}>
+                  {ob.name} {"["}
+                  {ob.designation}
+                  {"]"} :{" "}
                   <a href={"tel:" + ob.phone} target="_blank">
-                    {ob.name}
-                  </a>{" "}
-                  [{ob.registration_no}] - {ob.designation}
+                    {ob.phone}
+                  </a>
                 </li>
               );
             })}

@@ -1,0 +1,55 @@
+#loading-screen {
+  position: fixed !important;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  z-index: 500;
+  background-color: aliceblue;
+}
+
+#loader {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  padding: 20px;
+  border: 5px dashed black;
+  /* animation: loading 1s linear infinite; */
+  animation: pulse 1s ease-in-out infinite;
+}
+
+/* @keyframes loading {
+  0% {
+    border-top-style: none;
+  }
+  25% {
+    border-right-style: solid;
+  }
+  50% {
+    border-bottom-style: solid;
+  }
+  75% {
+    border-left-style: solid;
+  }
+  100% {
+    border-top-style: solid;
+  }
+} */
+
+@keyframes pulse {
+  from {
+    transform: scale(0.8);
+    opacity: 0.5;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}

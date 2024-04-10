@@ -38,3 +38,7 @@
 .event-club-obs a:link {
   text-decoration-line: none;
 }
+
+.event-name {
+  text-transform: capitalize;
+}
