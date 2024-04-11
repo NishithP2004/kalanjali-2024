@@ -17,6 +17,15 @@ function Header({ scheduleRef, highlightsRef, postersRef }) {
   return (
     <header className="glass">
       <nav>
+        <div className="row">
+        <img
+          src="amma1.png"
+          className="logo .amma-logo"
+          alt="Amma"
+          onClick={() => {
+            window.open("#", "_self");
+          }}
+        />
         <img
           src="Kalanjali24_logo.png"
           className="logo"
@@ -25,6 +34,7 @@ function Header({ scheduleRef, highlightsRef, postersRef }) {
             window.open("#", "_self");
           }}
         />
+        </div>
         <IconButton
           aria-controls="menu"
           aria-haspopup="true"

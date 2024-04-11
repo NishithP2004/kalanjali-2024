@@ -31,14 +31,14 @@ function App() {
       />
       <Section id="hero">
         <h1 id="title">Kalanjali'24</h1>
-        <img
+        {/* <img
           src="Amma.png"
           className="logo amma-logo"
           alt="Mata Amritanandamayi"
           onClick={() => {
             window.open("https://amrita.edu", "_blank");
           }}
-        />
+        /> */}
       </Section>
       <Section id="highlights">
         <h2 ref={highlightsRef}>Highlights</h2>

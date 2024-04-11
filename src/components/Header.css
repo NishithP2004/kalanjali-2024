@@ -19,6 +19,7 @@ header {
 
 nav img.logo:nth-child(1) {
   border-right: 1px solid azure;
+  padding: 0px 5px;
 }
 
 nav {
