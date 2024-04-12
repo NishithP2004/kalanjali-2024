@@ -91,30 +91,6 @@
       "registration_link": null
     },
     {
-      "name": "Ctrl Alt Jeopardy",
-      "description": "A trivia game show hosted at our own college. The basic format is 3 - 4 teams will clash in a battle of wits, answering trivia questions in the classic Jeopardy!\n\nThe game board will feature six categories with five clues each, ranging in difficulty from 200 brain points (easy) to 1000 brain points (super challenging).\n\nJust like the original show, each clue will be phrased as an answer. Remember, your response needs to be a question starting with \"What is...?\"\n\nThink fast! The first team to buzz in with the correct answer gets to claim the points. But there's a twist! Buzz in with the wrong answer, and your team loses the points you wagered on that clue.\n\nPower-Up Rounds:\n\nFinal Jeopardy!: After all the categories of the first board have been revealed, the top two teams face off in the ultimate final battle of lightening round.0020",
-      "club": {
-        "name": "FORGE",
-        "logo": "Club_Logos/FORGE.png",
-        "obs": [
-          {
-            "name": "Sneha T Raghavan",
-            "designation": "Executive",
-            "phone": "+91 9745730691",
-            "registration_no": null
-          }
-        ]
-      },
-      "time": {
-        "start": 1713535200,
-        "duration": 120
-      },
-      "type": "TEAM",
-      "timings": "2:00 PM - 4:00 PM",
-      "venue": "Sudhamani Hall",
-      "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSchUGfM0Q1nSNJRWB0oqhir_Co0KXL5Ka34tjeJKA1rMiu7Gg/viewform?usp=sf_link"
-    },
-    {
       "name": "Riddleverse",
       "description": "Explore the Multiverse of Riddles where riddles reign supreme!\n\nPut yourself though 3 fun rounds.\n\n1) Engage your intellect in “The Written Enigma\" as you unravel the mysteries hidden within each enigma.\n\n2) Unleash your creativity in “Decode & Draw”, where your sketches hold the key to unlocking the next challenge.\n\n3) And in “The Charades Challenge”, let your imagination run wild as you act out clues with flair.\n\nGet ready to immerse yourself in the enchanting world of riddles, where every solution brings you closer to enlightenment!",
       "club": {
@@ -141,7 +117,7 @@
           }
         ]
       },
-      "type": "INDIVIDUAL",
+      "type": "TEAM",
       "time": {
         "start": 1713526200,
         "duration": 90
@@ -263,7 +239,7 @@
       "description": "Join our Virtual Stock Market Challenge for a dynamic simulation of stock Market. Participants will experience real-time market conditions, make strategic decisions, and analyze portfolio performance. Register by Virtual app to compete for top rankings on the leaderboard and win prizes. The event offers a risk-free environment to hone investment skills, learn about market dynamics, and network with peers. Don't miss this opportunity to gain practical trading experience and test your financial acumen",
       "club": {
         "name": "INVESTO",
-        "logo": "Club_Logos/Investo.png",
+        "logo": "Club_Logos/investo.png",
         "obs": [
           {
             "name": "Veera mouli",
@@ -423,7 +399,7 @@
           }
         ]
       },
-      "type": "TEAM",
+      "type": "INDIVIDUAL",
       "time": {
         "start": 1713535200,
         "duration": 120
@@ -434,6 +410,30 @@
     }
   ],
   "20_4_24": [
+    {
+      "name": "Ctrl Alt Jeopardy",
+      "description": "A trivia game show hosted at our own college. The basic format is 3 - 4 teams will clash in a battle of wits, answering trivia questions in the classic Jeopardy!\n\nThe game board will feature six categories with five clues each, ranging in difficulty from 200 brain points (easy) to 1000 brain points (super challenging).\n\nJust like the original show, each clue will be phrased as an answer. Remember, your response needs to be a question starting with \"What is...?\"\n\nThink fast! The first team to buzz in with the correct answer gets to claim the points. But there's a twist! Buzz in with the wrong answer, and your team loses the points you wagered on that clue.\n\nPower-Up Rounds:\n\nFinal Jeopardy!: After all the categories of the first board have been revealed, the top two teams face off in the ultimate final battle of lightening round.0020",
+      "club": {
+        "name": "FORGE",
+        "logo": "Club_Logos/FORGE.png",
+        "obs": [
+          {
+            "name": "Sneha T Raghavan",
+            "designation": "Treasurer",
+            "phone": "+91 9745730691",
+            "registration_no": null
+          }
+        ]
+      },
+      "time": {
+        "start": 1713601800,
+        "duration": 120
+      },
+      "type": "TEAM",
+      "timings": "2:00 PM - 4:00 PM",
+      "venue": "Amriteshwari Hall",
+      "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSchUGfM0Q1nSNJRWB0oqhir_Co0KXL5Ka34tjeJKA1rMiu7Gg/viewform?usp=sf_link"
+    },
     {
       "name": "Science Spotlight-An Intriguing Segment",
       "description": "Simple and Entertaining Experiments\n\nElephant Toothpaste: Mix hydrogen peroxide, dish soap, and yeast to create a foamy eruption that resembles toothpaste for an elephant! It's visually stunning and safe to do with proper precautions.\n\nPasta Tower Challenge: Provide participants with uncooked spaghetti noodles and marshmallows or gumdrops, and challenge them to build the tallest freestanding tower possible. It's a fun way to explore principles of stability and structural engineering.\n\nSeltzer Bottle Rockets: Create simple rockets using empty seltzer bottles, water, and a bike pump or air compressor. Participants can experiment with different water levels and air pressures to achieve maximum launch height.\n\nAluminum Foil Boats: Give participants a sheet of aluminum foil and challenge them to fold it into a boat that can float and hold the most weight (such as pennies or marbles) without sinking.\n\nPaper Airplane Challenge: Have participants fold a paper airplane using a standard sheet of paper, and challenge them to design and fold the airplane that can fly the farthest or stay in the air the longest.\n\nInvisible Ink: Create invisible ink using lemon juice, baking soda solution, or milk. Write secret messages with the invisible ink and reveal them using heat (such as holding the paper near a light bulb) or by applying a developing agent (such as iodine vapor).",
@@ -587,13 +587,13 @@
           }
         ]
       },
-      "type": "TEAM",
+      "type": "INDIVIDUAL",
       "time": {
         "start": 1713600000,
         "duration": 120
       },
       "timings": "1:30PM-3:30PM",
-      "venue": "Amriteshwari Hall",
+      "venue": "Rama Hall",
       "registration_link": "https://forms.office.com/r/LSVPr5mGAa?origin=QRCode&qrcodeorigin=presentation"
     },
     {

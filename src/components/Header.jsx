@@ -20,7 +20,7 @@ function Header({ scheduleRef, highlightsRef, postersRef }) {
         <div className="row">
         <img
           src="amma1.png"
-          className="logo .amma-logo"
+          className="logo amma-logo"
           alt="Amma"
           onClick={() => {
             window.open("#", "_self");
