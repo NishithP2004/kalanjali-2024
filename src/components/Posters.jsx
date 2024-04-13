@@ -23,7 +23,7 @@ function Posters() {
     "IMG-20240409-WA0025 - Karthikeyan Madhaiyan.jpg",
     "IMG-20240410-WA0002 - Nimeshika.jpg",
     "IMG-20240410-WA0003 - Nimeshika.jpg",
-    "Investo - Nyx N.png",
+    "bulls.jpg",
     "Jeopardy Updated - Sneha Thejus.png",
     "kalanjali poster prakriti - Charitha.jpg",
     "kalanjali’24 - DIVINE.png",
