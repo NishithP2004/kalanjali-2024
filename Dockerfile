@@ -22,8 +22,31 @@ FROM nginx:latest
 # Copy the built files from the previous stage
 COPY --from=build /app/dist /usr/share/nginx/html
 
-# Expose port 80
+# Expose ports 80 and 443
 EXPOSE 80
+EXPOSE 443
+
+# Install Certbot and nginx plugin
+RUN apt-get update && \
+    apt-get install -y certbot python3-certbot-nginx && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
+
+# Create a directory for Certbot
+RUN mkdir -p /etc/letsencrypt/live/kalanjali.blr.amrita.edu
+
+# Add script to obtain SSL certificate using Certbot
+COPY server_files/certbot_script.sh /usr/local/bin/certbot_script.sh
+RUN chmod +x /usr/local/bin/certbot_script.sh
+
+# Run the Certbot script to obtain SSL certificate
+RUN /usr/local/bin/certbot_script.sh
+
+COPY server_files/fullchain.pem /etc/letsencrypt/live/kalanjali.blr.amrita.edu/fullchain.pem
+COPY server_files/privkey.pem /etc/letsencrypt/live/kalanjali.blr.amrita.edu/privkey.pem
+
+# Move nginx configuration file
+COPY server_files/nginx-server.conf /etc/nginx/conf.d/default.conf
 
 # Start nginx when the container starts
 CMD ["nginx", "-g", "daemon off;"]

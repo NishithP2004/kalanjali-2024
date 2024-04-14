@@ -88,7 +88,7 @@
       "timings": "10:00 AM - 4:00pm",
       "venue": "CSE Lab /\nAIE Lab",
       "type": "TEAM",
-      "registration_link": null
+      "registration_link": "https://heylink.me/FORGE_ASEB"
     },
     {
       "name": "Riddleverse",
@@ -119,10 +119,10 @@
       },
       "type": "TEAM",
       "time": {
-        "start": 1713526200,
-        "duration": 90
+        "start": 1713515400,
+        "duration": 120
       },
-      "timings": "11:30 AM - 1:00 PM",
+      "timings": "2:00 PM - 4:00 PM",
       "venue": " Rama Hall",
       "registration_link": "https://me-qr.com/FF0xkjoc"
     },
@@ -258,9 +258,9 @@
       "type": "INDIVIDUAL",
       "time": {
         "start": 1713520800,
-        "duration": 90
+        "duration": 180
       },
-      "timings": "10:00 AM - 11:30 AM",
+      "timings": "10:00 AM - 01:00 PM",
       "venue": "Rama Hall",
       "registration_link": "https://forms.gle/PHjS3Z3NBccri2MVA"
     },
@@ -426,11 +426,11 @@
         ]
       },
       "time": {
-        "start": 1713601800,
+        "start": 1713556800,
         "duration": 120
       },
       "type": "TEAM",
-      "timings": "2:00 PM - 4:00 PM",
+      "timings": "1:30 PM - 3:30 PM",
       "venue": "Amriteshwari Hall",
       "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSchUGfM0Q1nSNJRWB0oqhir_Co0KXL5Ka34tjeJKA1rMiu7Gg/viewform?usp=sf_link"
     },
@@ -499,10 +499,10 @@
       },
       "type": "INDIVIDUAL",
       "time": {
-        "start": 1713600000,
-        "duration": 120
+        "start": 1713583800,
+        "duration": 180
       },
-      "timings": "1:30 PM - 3:30 PM",
+      "timings": "9:30 AM - 12:30 PM",
       "venue": "ATM Road",
       "registration_link": null
     },
@@ -530,9 +530,9 @@
       "type": "TEAM",
       "time": {
         "start": 1713585600,
-        "duration": 180
+        "duration": 360
       },
-      "timings": "9:30 AM - 12:30 PM",
+      "timings": "9:30 AM - 3:30 PM",
       "venue": "Sudhamani Hall",
       "registration_link": "https://forms.gle/d2A4h6d2VsoQQECS7"
     },
@@ -619,30 +619,6 @@
       "timings": "1:30PM-3:30PM",
       "venue": "Amriteshwari Hall",
       "registration_link": ""
-    },
-    {
-      "name": "Serpentine Chronicles",
-      "description": "Dive deep into the captivating world of snakes with our seminar, 'Serpentine Chronicles.' In this seminar, we'll explore the biology, ecology, behaviour, and cultural significance of these remarkable reptiles.  A herpetologist who previously worked as a professor in IISC bengaluru ,will lead discussions on topics such as snake diversity, venomous vs. non-venomous species, ecological roles, conservation efforts, and the coexistence of snakes with human populations. ",
-      "club": {
-        "name": "PRAKRITI",
-        "logo": "Club_Logos/Prakriti.jpg",
-        "obs": [
-          {
-            "name": "Hemanth Reddy",
-            "designation": "President",
-            "phone": "+919676814109",
-            "registration_no": ""
-          }
-        ]
-      },
-      "type": "INDIVIDUAL/TEAM",
-      "time": {
-        "start": 1713600000,
-        "duration": 180
-      },
-      "timings": "1:30PM-3:30PM",
-      "venue": "Amriteshwari Hall",
-      "registration_link": null
     }
   ]
 }
