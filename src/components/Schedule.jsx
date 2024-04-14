@@ -49,7 +49,9 @@ function Schedule() {
         <div className="schedule">
           {Events && Events.hasOwnProperty("19_4_24")
             ? Events["19_4_24"]
-                .sort((ev1, ev2) => ev1.time.start - ev2.time.start)
+                .sort(
+                  (ev1, ev2) => ev1.time.start * 1000 - ev2.time.start * 1000,
+                )
                 .map((event, index) => {
                   return <EventCard key={index} event={event} />;
                 })
@@ -60,7 +62,9 @@ function Schedule() {
         <div className="schedule">
           {Events && Events.hasOwnProperty("20_4_24")
             ? Events["20_4_24"]
-                .sort((ev1, ev2) => ev1.time.start - ev2.time.start)
+                .sort(
+                  (ev1, ev2) => ev1.time.start * 1000 - ev2.time.start * 1000,
+                )
                 .map((event, index) => {
                   return <EventCard key={index} event={event} />;
                 })

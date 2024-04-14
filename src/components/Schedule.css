@@ -1,7 +1,6 @@
 .schedule {
   display: flex;
-  flex-flow: row wrap;
-  padding: 10px;
+  flex-flow: row wrap; 
   justify-content: space-evenly;
   gap: 20px;
 }

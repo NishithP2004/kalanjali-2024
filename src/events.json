@@ -35,10 +35,10 @@
       },
       "type": "TEAM",
       "time": {
-        "start": 1713535200,
+        "start": 1713515400,
         "duration": 120
       },
-      "timings": "2PM - 4PM",
+      "timings": "2:00PM - 4:00PM",
       "venue": "Krishna Hall",
       "registration_link": "https://forms.office.com/r/5LurmssbJM"
     },
@@ -58,7 +58,7 @@
         ]
       },
       "time": {
-        "start": 1713520800,
+        "start": 1713501000,
         "duration": 180
       },
       "type": "INDIVIDUAL",
@@ -82,7 +82,7 @@
         ]
       },
       "time": {
-        "start": 1713520800,
+        "start": 1713501000,
         "duration": 360
       },
       "timings": "10:00 AM - 4:00pm",
@@ -155,7 +155,7 @@
       },
       "type": "TEAM",
       "time": {
-        "start": 1713520800,
+        "start": 1713501000,
         "duration": 180
       },
       "timings": "10:00 AM - 1:00 PM",
@@ -178,7 +178,7 @@
         ]
       },
       "time": {
-        "start": 1713520800,
+        "start": 1713501000,
         "duration": 90
       },
       "type": "INDIVIDUAL",
@@ -202,8 +202,8 @@
         ]
       },
       "time": {
-        "start": 1713526200,
-        "duration": null
+        "start": 1713506400,
+        "duration": 90
       },
       "type": "TEAM",
       "timings": "11:30 AM - 01:00 PM",
@@ -226,8 +226,8 @@
         ]
       },
       "time": {
-        "start": 1713623400,
-        "duration": null
+        "start": 1713517200,
+        "duration": 60
       },
       "type": "TEAM",
       "timings": "2:30 PM - 3:30 PM",
@@ -257,7 +257,7 @@
       },
       "type": "INDIVIDUAL",
       "time": {
-        "start": 1713520800,
+        "start": 1713501000,
         "duration": 180
       },
       "timings": "10:00 AM - 01:00 PM",
@@ -287,7 +287,7 @@
       },
       "type": "INDIVIDUAL",
       "time": {
-        "start": 1713520800,
+        "start": 1713501000,
         "duration": 180
       },
       "timings": "10:00 AM - 01:00 PM",
@@ -317,8 +317,8 @@
       },
       "type": "INDIVIDUAL",
       "time": {
-        "start": 1713619800,
-        "duration": null
+        "start": 1713513600,
+        "duration": 120
       },
       "timings": "1:30 PM - 3:30 PM",
       "venue": "Main stage",
@@ -346,7 +346,7 @@
         ]
       },
       "time": {
-        "start": 1713520800,
+        "start": 1713501000,
         "duration": 360
       },
       "type": "INDIVIDUAL",
@@ -377,7 +377,7 @@
       },
       "type": "INDIVIDUAL",
       "time": {
-        "start": 1713520800,
+        "start": 1713501000,
         "duration": 360
       },
       "timings": "10:00 AM - 04:00 PM",
@@ -401,15 +401,159 @@
       },
       "type": "INDIVIDUAL",
       "time": {
-        "start": 1713535200,
+        "start": 1713515400,
         "duration": 120
       },
       "timings": "2:00PM to 4:00PM",
       "venue": "Rama Hall",
       "registration_link": "https://forms.office.com/r/LSVPr5mGAa?origin=QRCode&qrcodeorigin=presentation"
+    },
+    {
+      "name": "Fun Games",
+      "description": "1) Blindfold Labyrinth\n2) Poisonous Stump\n3) Ball Bucket\nThe three events will be conducted in a team of 3 to 4.  A fun filled and team activity. Where it tests the potential of an individual and the trust on their teammates. The understanding between each other and the communication plays a important role in the activities mentioned above.",
+      "club": {
+        "name": "THE SQUAD",
+        "logo": "Club_Logos/Squad.jpeg",
+        "obs": [
+          {
+            "name": "Samuel",
+            "designation": "Executive",
+            "phone": "+91 6360405242",
+            "registration_no": null
+          }
+        ]
+      },
+      "time": {
+        "start": 1713501000,
+        "duration": 180
+      },
+      "type": "TEAM",
+      "timings": "10:00AM - 01:00PM",
+      "venue": "Fountain Road",
+      "registration_link": null
+    },
+    {
+      "name": "Thread of Kindness",
+      "description": "As part of this cloth donation drive, drop boxes will be placed at designed locations within our college to facilitate the collection of old clothes from donors. To ensure the impact of our guide, we will be circulating a detailed guidelines of what can and cannot be donated. All the donated clothes will be donated to NGO Goonj",
+      "club": {
+        "name": "Prerana",
+        "logo": "Club_Logos/Prerana.png",
+        "obs": [
+          {
+            "name": "Gutta Sathwika",
+            "designation": "Executive",
+            "phone": "+91 9347059601",
+            "registration_no": null
+          }
+        ]
+      },
+      "time": {
+        "start": 1713499200,
+        "duration": 360
+      },
+      "type": "INDIVIDUAL/TEAM",
+      "timings": "9:30AM - 03:30PM",
+      "venue": "ATM Road Parking",
+      "registration_link": null
     }
   ],
   "20_4_24": [
+    {
+      "name": "Thread of Kindness",
+      "description": "As part of this cloth donation drive, drop boxes will be placed at designed locations within our college to facilitate the collection of old clothes from donors. To ensure the impact of our guide, we will be circulating a detailed guidelines of what can and cannot be donated. All the donated clothes will be donated to NGO Goonj",
+      "club": {
+        "name": "Prerana",
+        "logo": "Club_Logos/Prerana.png",
+        "obs": [
+          {
+            "name": "Gutta Sathwika",
+            "designation": "Executive",
+            "phone": "+91 9347059601",
+            "registration_no": null
+          }
+        ]
+      },
+      "time": {
+        "start": 1713585600,
+        "duration": 360
+      },
+      "type": "INDIVIDUAL/TEAM",
+      "timings": "9:30AM - 03:30PM",
+      "venue": "ATM Road Parking",
+      "registration_link": null
+    },
+    {
+      "name": "Shark Tank",
+      "description": "Inspired from the show Shark Tank while including an interesting twist. A set of slides that present Products and absurd and creative features where the contestants must pitch for funding by using the details provided from the slides. Use your impromptu skills to steal the best deal. Your by entrepreneurship and impromptu skills are put to the test by evaluating how well you use the details from the slides to your advantage.",
+      "club": {
+        "name": "TAB x AMAL",
+        "logo": "Club_Logos/TAB_AMAL.jpg",
+        "obs": [
+          {
+            "name": "Sharanya",
+            "designation": "Executive",
+            "phone": "+91 7406965550",
+            "registration_no": null
+          }
+        ]
+      },
+      "time": {
+        "start": 1713585600,
+        "duration": 180
+      },
+      "type": "INDIVIDUAL",
+      "timings": "9:30AM - 12:30PM",
+      "venue": "Krishna Hall",
+      "registration_link": null
+    },
+    {
+      "name": "Tug of War",
+      "description": "A fun filled and team activity. Where it tests the potential of an individual and the trust on their teammates. The understanding between each other and the communication plays a important role in the activities mentioned above.",
+      "club": {
+        "name": "THE SQUAD",
+        "logo": "Club_Logos/Squad.jpeg",
+        "obs": [
+          {
+            "name": "Samuel",
+            "designation": "Executive",
+            "phone": "+91 6360405242",
+            "registration_no": null
+          }
+        ]
+      },
+      "time": {
+        "start": 1713585600,
+        "duration": 180
+      },
+      "type": "TEAM",
+      "timings": "9:30AM - 12:30PM",
+      "venue": "ATM Road",
+      "registration_link": null
+    },
+    {
+      "name": "Street Dance",
+      "description": "A dance battle on the streets of Fountain Road. There will be teams consisting of 4-5 people each, battling against each other. The competition would contain 2 rounds, the first one being a Selection round based on performances and the second one being an Impromptu Dance round. The teams must choose only Beats, EDMs, Raps and Tunes. No lyrics are allowed. The team that does the best during the final round wins.",
+      "club": {
+        "name": "Narthana",
+        "logo": "Club_Logos/Narthana.png",
+        "obs": [
+          {
+            "name": "Devansh Handa",
+            "designation": "Executive",
+            "phone": "+91 9113682389",
+            "registration_no": null
+          }
+        ]
+      },
+      "time": {
+        "start": 1713601800,
+        "duration": 90
+      },
+      "type": "TEAM",
+      "timings": "2:00PM - 03:30PM",
+      "venue": "Fountain Road",
+      "registration_link": null
+    },
     {
       "name": "Ctrl Alt Jeopardy",
       "description": "A trivia game show hosted at our own college. The basic format is 3 - 4 teams will clash in a battle of wits, answering trivia questions in the classic Jeopardy!\n\nThe game board will feature six categories with five clues each, ranging in difficulty from 200 brain points (easy) to 1000 brain points (super challenging).\n\nJust like the original show, each clue will be phrased as an answer. Remember, your response needs to be a question starting with \"What is...?\"\n\nThink fast! The first team to buzz in with the correct answer gets to claim the points. But there's a twist! Buzz in with the wrong answer, and your team loses the points you wagered on that clue.\n\nPower-Up Rounds:\n\nFinal Jeopardy!: After all the categories of the first board have been revealed, the top two teams face off in the ultimate final battle of lightening round.0020",
@@ -426,7 +570,7 @@
         ]
       },
       "time": {
-        "start": 1713556800,
+        "start": 1713600000,
         "duration": 120
       },
       "type": "TEAM",
@@ -619,6 +763,30 @@
       "timings": "1:30PM-3:30PM",
       "venue": "Amriteshwari Hall",
       "registration_link": ""
+    },
+    {
+      "name": "Cinematic Adventure",
+      "description": "In this event attendees will go on an exciting quest for knowledge as they take part in a genre hunt. Teams of up to four people will seek the allotted region for their assigned genre, using only their wits and the clues provided.\n    After the genre has been identified, participants will have the chance to let their imaginations go wild and create an engrossing five to ten minute short film or scenario that perfectly captures the essence of the identified genre.",
+      "club": {
+        "name": "EPIC – The Movie Club",
+        "logo": "Club_Logos/Epic.png",
+        "obs": [
+          {
+            "name": "A Bharani",
+            "designation": "Executive",
+            "phone": "+91 9392772693",
+            "registration_no": null
+          }
+        ]
+      },
+      "time": {
+        "start": 1713585600,
+        "duration": 180
+      },
+      "type": "INDIVIDUAL/TEAM",
+      "timings": "9:30AM - 12:30PM",
+      "venue": "Amriteshwari Hall",
+      "registration_link": null
     }
   ]
 }
